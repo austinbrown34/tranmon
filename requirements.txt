@@ -34,7 +34,7 @@ placebo==0.8.1
 prompt-toolkit==1.0.15
 ptpython==0.41
 pyasn1==0.4.2
-Pygments==2.2.0
+Pygments==2.7.4
 python-dateutil==2.6.1
 git+ssh://git@github.com/jonathanporta/python-dotenv.git@cc216934c2b86cbdf7cce47107cc0336a5b1a667#egg=python_dotenv
 python-Levenshtein==0.12.0
